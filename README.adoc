@@ -10,6 +10,7 @@ Ce dépôt concerne les rendus de mailto:A_changer@etu.univ-tlse2.fr[Jonh Doe].
 .is It Friday yet
 [source,java]
 ---
+
 Feature: Is it Friday yet
 
   Scenario Outline: is It Friday ?
@@ -24,7 +25,7 @@ Examples:
     | anything else! | Nope   |
 ---
 
-.Exemple d'image insérée en asciidoc
-image::artifacts-r303.svg[width=80%]
+.ScreenShot de mes tests
+image::testTP1.png[width=80%]
 
 == TP2...
