@@ -9,5 +9,5 @@ Feature: Cocktail Ordering
 
         Examples:
           | from  | to       | nbCocktails |
-          | Romeo | Juliette |           0 |
-          | Tom   | Jerry    |           0 |
+          | Romeo | Juliette |           3 |
+          | Tom   | Jerry    |           6 |
