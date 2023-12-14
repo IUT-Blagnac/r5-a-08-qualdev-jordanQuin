@@ -1,9 +1,9 @@
 Feature: Cucumber Example
 
   Scenario Outline: Eating cucumbers
-    Given I have "<cucumbers>" cucumbers 
-    When I eat "<less>" cucumbers
-    Then I should have "<total>" cucumbers left
+      Given I have "<cucumbers>" cucumbers 
+      When I eat "<less>" cucumbers
+      Then I should have "<total>" cucumbers left
 
     Examples:
       | cucumbers | less | total |
